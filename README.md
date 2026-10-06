@@ -79,6 +79,18 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Latest Integrated Script
+
+The latest single-file GUI implementation is included at:
+
+- b1500_stress_measurement_cycle.py
+
+Run directly:
+
+```bash
+python b1500_stress_measurement_cycle.py
+```
+
 Or after installation:
 
 ```bash
