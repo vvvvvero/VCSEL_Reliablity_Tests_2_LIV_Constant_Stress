@@ -84,11 +84,13 @@ python main.py
 The latest single-file GUI implementation is included at:
 
 - b1500_stress_measurement_cycle.py
+- b1500_stress_cycle_spectroscopy.py
 
 Run directly:
 
 ```bash
 python b1500_stress_measurement_cycle.py
+python b1500_stress_cycle_spectroscopy.py
 ```
 
 Or after installation:
